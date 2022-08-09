@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AWSAMI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bhuvan
+Implementation-Vendor-Id: com.tls.springboot
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AWSAMI
+Created-By: Maven Integration for Eclipse
+
